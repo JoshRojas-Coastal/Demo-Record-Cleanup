@@ -3,7 +3,7 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "Demo Cleanup",
+      "package": "Josh - Demo Record Cleanup",
       "versionName": "Version 3.2.0.0",
       "versionNumber": "3.2.0.0",
       "unpackagedMetadata": {
